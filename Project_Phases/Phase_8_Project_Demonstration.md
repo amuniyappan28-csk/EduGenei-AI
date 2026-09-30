@@ -2,7 +2,7 @@
 
 ## Demonstration Deliverables
 - **Live Application URL:**
-- **Project Demonstration Video:** ]
+- **Project Demonstration Video:** https://drive.google.com/file/d/1hYI3d3FqSaTJJx34v2aoiAtQQo3w5W4W/view?usp=drivesdk
 
 ## Video Walkthrough Outline
 1. **Introduction:** Presentation of team members and project title (*PocketSmart AI*).
